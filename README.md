@@ -106,7 +106,7 @@ Then modify the filament configuration file config/filament.php
 
 ### Step 7: Filament Theme Manager
 
-FrontEnd Themes Manager For Filament Admin
+Frontend Themes Manager for Filament Admin
 
 #### Installation
 

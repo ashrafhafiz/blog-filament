@@ -73,6 +73,7 @@
                     </li>
                 @endif
             @endforeach
+{{--                @livewire('menu', ['key' => "test-menu", 'view' => ""])--}}
         </ul>
 
         <x-filament::layouts.app.sidebar.end />

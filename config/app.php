@@ -164,6 +164,8 @@ return [
         // Illuminate\Translation\TranslationServiceProvider::class,
         Spatie\TranslationLoader\TranslationServiceProvider::class,
 
+        Krlove\EloquentModelGenerator\Provider\GeneratorServiceProvider::class,
+
         Illuminate\Validation\ValidationServiceProvider::class,
         Illuminate\View\ViewServiceProvider::class,
 
